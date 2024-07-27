@@ -3,18 +3,18 @@ Collection of useful software
 
 ## IDE & Editors
 
-- [Visual Studio]()
+- [Visual Studio](https://visualstudio.microsoft.com/)
 - [Visual Studio Code](https://github.com/microsoft/vscode) - Cross-platform open-source text editor.
 - [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) - Free code editor that supports several programming languages and natural languages
 
 ## Database
 
 - [MySql](https://github.com/mysql/mysql-server)
-- [MariaDB]()
-- [MSSQL]()
-- [PostgreSQL]()
-- [Oracle]()
-- [SQLite]()
+- [MariaDB](https://mariadb.org/)
+- [MSSQL](https://www.microsoft.com/sql-server/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Oracle](https://www.oracle.com/database/)
+- [SQLite](https://www.sqlite.org/)
 
 ## Database Clients
 
@@ -23,7 +23,7 @@ Collection of useful software
 
 ## API
 
-- [Postman]()
+- [Postman](https://www.postman.com/)
 - [Insomnia](https://github.com/Kong/insomnia) - Open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem
 
@@ -31,8 +31,8 @@ Collection of useful software
 
 - [PfSense](https://github.com/pfsense/pfsense) - Free network firewall distribution based on the FreeBSD
 - [OpnSense](https://github.com/opnsense)
-- [Fortinet]()
-- [Sophos]()
+- [Fortinet](https://www.fortinet.com/)
+- [Sophos](https://www.sophos.com/)
 - [Pihole](https://github.com/pi-hole/pi-hole) - DNS sinkhole that protects devices from unwanted content
 
 ## Container
