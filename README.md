@@ -48,3 +48,10 @@ Collection of useful software
 
 - [Playwright](https://github.com/microsoft/playwright) - Framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Trufflehog](https://github.com/trufflesecurity/trufflehog)
+
+## Awesome-Lists
+
+- [awesome-fachinformatiker](https://github.com/noel-lang/awesome-fachinformatiker)
+- [public-apis](https://github.com/public-apis/public-apis)
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
