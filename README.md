@@ -61,6 +61,7 @@ Collection of useful software
 - [Manjaro](https://manjaro.org)
 - [Kali](https://www.kali.org) - Linux for penetration testing
 - [ElementaryOS](https://elementary.io/de) - Ubuntu with IOS Desktop
+- [RedHat](https://www.redhat.com)
 
 ## Framework
 
