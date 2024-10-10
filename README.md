@@ -39,15 +39,28 @@ Collection of useful software
 
 - [Portainer](https://github.com/portainer/portainer) - Docker and Kubernetes management application
 
-## Container
+## Terminal
 
 - [Windows Terminal](https://github.com/microsoft/terminal)
 - [WezTerm](https://github.com/wez/wezterm) - GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust
+- [MobaXterm](https://mobaxterm.mobatek.net)
 
 ## Testing
 
 - [Playwright](https://github.com/microsoft/playwright) - Framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Trufflehog](https://github.com/trufflesecurity/trufflehog)
+
+## Linux Distribution
+
+- [Debian](https://www.debian.org)
+- [Ubuntu](https://ubuntu.com)
+- [Kubuntu](https://kubuntu.org) - Ubuntu with KDE Plasma Desktop
+- [KDE neon](https://neon.kde.org)
+- [Pop!_OS](https://pop.system76.com)
+- [ArchLinux](https://archlinux.org)
+- [Manjaro](https://manjaro.org)
+- [Kali](https://www.kali.org) - Linux for penetration testing
+- [ElementaryOS](https://elementary.io/de) - Ubuntu with IOS Desktop
 
 ## Awesome-Lists
 
