@@ -62,6 +62,15 @@ Collection of useful software
 - [Kali](https://www.kali.org) - Linux for penetration testing
 - [ElementaryOS](https://elementary.io/de) - Ubuntu with IOS Desktop
 
+## Framework
+
+- [Angular](https://angular.dev)
+- [React](https://react.dev)
+- [Vue.js](https://vuejs.org)
+- [Svelte](https://svelte.dev)
+- [Bootstrap](https://getbootstrap.com)
+- [Ionic](https://ionicframework.com)
+
 ## Awesome-Lists
 
 - [awesome-fachinformatiker](https://github.com/noel-lang/awesome-fachinformatiker)
