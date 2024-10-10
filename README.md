@@ -80,6 +80,15 @@ Collection of useful software
 - [Bitrix24](https://www.bitrix24.com)
 - [Monday](https://monday.com)
 
+## Git
+
+- [GitHub](https://github.com)
+- [GitLab](https://gitlab.com)
+- [Gitea](https://gitea.io)
+- [Bitbucket](https://bitbucket.org)
+- [Gogs](https://gogs.io)
+- [Azure DevOps](https://azure.microsoft.com/de-de/products/devops)
+
 ## Awesome-Lists
 
 - [awesome-fachinformatiker](https://github.com/noel-lang/awesome-fachinformatiker)
