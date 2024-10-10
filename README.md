@@ -37,6 +37,8 @@ Collection of useful software
 
 ## Container
 
+- [Docker Hub](https://hub.docker.com)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - [Portainer](https://github.com/portainer/portainer) - Docker and Kubernetes management application
 
 ## Terminal
