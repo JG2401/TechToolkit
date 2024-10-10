@@ -71,6 +71,15 @@ Collection of useful software
 - [Bootstrap](https://getbootstrap.com)
 - [Ionic](https://ionicframework.com)
 
+## Project planning
+
+- [Jira](https://www.atlassian.com/software/jira)
+- [Trello](https://trello.com)
+- [Asana](https://asana.com/de)
+- [Wrike](https://www.wrike.com)
+- [Bitrix24](https://www.bitrix24.com)
+- [Monday](https://monday.com)
+
 ## Awesome-Lists
 
 - [awesome-fachinformatiker](https://github.com/noel-lang/awesome-fachinformatiker)
