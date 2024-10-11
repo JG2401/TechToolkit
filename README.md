@@ -97,6 +97,10 @@ Collection of useful software
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
 - [KeePass](https://keepass.info)
 
+## Comparison
+
+- [WinMerge](https://winmerge.org)
+
 ## Awesome-Lists
 
 - [awesome-fachinformatiker](https://github.com/noel-lang/awesome-fachinformatiker)
