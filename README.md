@@ -128,6 +128,11 @@ Collection of useful software
 - [Deepl](https://chromewebstore.google.com/detail/deepl-ai-translator-and-w/cofdbpoegempjloogbagkncekinflcnj)
 - [Google Übersetzer](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 
+## NOT ASSIGNED
+
+- [DevToys](https://devtoys.app)
+- [PowerToys](https://learn.microsoft.com/de-de/windows/powertoys)
+
 ## Awesome-Lists
 
 - [awesome-fachinformatiker](https://github.com/noel-lang/awesome-fachinformatiker)
