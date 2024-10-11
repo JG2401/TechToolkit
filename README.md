@@ -101,6 +101,10 @@ Collection of useful software
 
 - [WinMerge](https://winmerge.org)
 
+## Search
+
+- [Everything](https://www.voidtools.com) - freeware desktop utility that can rapidly find files and folders by name
+
 ## Awesome-Lists
 
 - [awesome-fachinformatiker](https://github.com/noel-lang/awesome-fachinformatiker)
