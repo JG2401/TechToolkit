@@ -105,6 +105,10 @@ Collection of useful software
 
 - [Everything](https://www.voidtools.com) - freeware desktop utility that can rapidly find files and folders by name
 
+## Zip
+
+- [7zip](https://www.7-zip.org)
+
 ## Awesome-Lists
 
 - [awesome-fachinformatiker](https://github.com/noel-lang/awesome-fachinformatiker)
