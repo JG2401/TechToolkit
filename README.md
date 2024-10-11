@@ -46,6 +46,7 @@ Collection of useful software
 - [Windows Terminal](https://github.com/microsoft/terminal)
 - [WezTerm](https://github.com/wez/wezterm) - GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust
 - [MobaXterm](https://mobaxterm.mobatek.net)
+- [PuTTY](https://www.putty.org)
 
 ## Testing
 
