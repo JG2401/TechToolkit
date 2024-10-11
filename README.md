@@ -110,6 +110,14 @@ Collection of useful software
 
 - [7zip](https://www.7-zip.org)
 
+## Virtualization
+
+- [Proxmox](https://www.proxmox.com)
+- [VmWare](https://www.vmware.com)
+- [HyperV](https://learn.microsoft.com/de-de/virtualization/hyper-v-on-windows)
+- [VirtualBox](https://www.virtualbox.org)
+- [Qemu](https://www.qemu.org)
+
 ## Awesome-Lists
 
 - [awesome-fachinformatiker](https://github.com/noel-lang/awesome-fachinformatiker)
