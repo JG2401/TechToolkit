@@ -118,6 +118,16 @@ Collection of useful software
 - [VirtualBox](https://www.virtualbox.org)
 - [Qemu](https://www.qemu.org)
 
+## Browser Plugins
+
+- [Anori](https://anori.app)
+- [Bitwarden](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb)
+- [PiHole Browser Extension](https://chromewebstore.google.com/detail/pihole-browser-extension/ngoafjpapneaopfkpboebcahajopcifi)
+- [ColorZilla](https://www.colorzilla.com)
+- [Dark Reader](https://darkreader.org)
+- [Deepl](https://chromewebstore.google.com/detail/deepl-ai-translator-and-w/cofdbpoegempjloogbagkncekinflcnj)
+- [Google Übersetzer](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+
 ## Awesome-Lists
 
 - [awesome-fachinformatiker](https://github.com/noel-lang/awesome-fachinformatiker)
