@@ -92,6 +92,11 @@ Collection of useful software
 - [Gogs](https://gogs.io)
 - [Azure DevOps](https://azure.microsoft.com/de-de/products/devops)
 
+## Password
+
+- [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
+- [KeePass](https://keepass.info)
+
 ## Awesome-Lists
 
 - [awesome-fachinformatiker](https://github.com/noel-lang/awesome-fachinformatiker)
