@@ -130,6 +130,7 @@ Collection of useful software
 
 ## NOT ASSIGNED
 
+- [UniGetUI](https://www.marticliment.com/unigetui/) - an intuitive GUI for the most common CLI package managers for Windows 10 and Windows 11, such as Winget, Scoop, Chocolatey, Pip, Npm, .NET Tool and PowerShell Gallery
 - [DevToys](https://devtoys.app)
 - [PowerToys](https://learn.microsoft.com/de-de/windows/powertoys)
 
