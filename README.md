@@ -140,3 +140,4 @@ Collection of useful software
 - [public-apis](https://github.com/public-apis/public-apis)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell)
