@@ -116,6 +116,7 @@ Collection of useful software
 - [VmWare](https://www.vmware.com)
 - [HyperV](https://learn.microsoft.com/de-de/virtualization/hyper-v-on-windows)
 - [VirtualBox](https://www.virtualbox.org)
+- [Linux KVM](https://linux-kvm.org/)
 - [Qemu](https://www.qemu.org)
 
 ## Browser Plugins
@@ -128,9 +129,40 @@ Collection of useful software
 - [Deepl](https://chromewebstore.google.com/detail/deepl-ai-translator-and-w/cofdbpoegempjloogbagkncekinflcnj)
 - [Google Übersetzer](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 
+## Cloud
+
+- [Microsoft Azure](https://azure.microsoft.com/)
+- [Google Cloud](https://console.cloud.google.com/)
+- [Amazon Webservices (AWS)](https://aws.amazon.com/)
+- [Terraform](https://www.terraform.io/)
+
+## CI/CD
+
+- [GitHub Actions](https://github.com/features/actions)
+- [GitLab Pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
+- [Jenkins](https://www.jenkins.io/)
+
+## Network Analysis
+
+-[Nmap](https://nmap.org/)
+
+## Visual Studio Code Plugins
+
+- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+- [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
+- [HashiCorp Terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
+
+## Package Managers
+
+- [WinGet](https://github.com/microsoft/winget-cli)
+- [Chocolatey](https://chocolatey.org/)
+- [Scoop](https://scoop.sh/)
+- [PowerShellGallery](https://www.powershellgallery.com/)
+
 ## NOT ASSIGNED
 
 - [UniGetUI](https://www.marticliment.com/unigetui/) - an intuitive GUI for the most common CLI package managers for Windows 10 and Windows 11, such as Winget, Scoop, Chocolatey, Pip, Npm, .NET Tool and PowerShell Gallery
+- [Winstall](https://winstall.app/)
 - [DevToys](https://devtoys.app)
 - [PowerToys](https://learn.microsoft.com/de-de/windows/powertoys)
 
