@@ -159,6 +159,11 @@ Collection of useful software
 - [Scoop](https://scoop.sh/)
 - [PowerShellGallery](https://www.powershellgallery.com/)
 
+## Regex
+
+- [Regex101](https://regex101.com/) - website to test regular expression and export it to any programming language
+- [Regex.ai](https://regex.ai/) - website for generating regular expressions from examples and a defined target
+
 ## NOT ASSIGNED
 
 - [UniGetUI](https://www.marticliment.com/unigetui/) - an intuitive GUI for the most common CLI package managers for Windows 10 and Windows 11, such as Winget, Scoop, Chocolatey, Pip, Npm, .NET Tool and PowerShell Gallery
