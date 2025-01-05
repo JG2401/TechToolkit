@@ -40,6 +40,7 @@ Collection of useful software
 - [Docker Hub](https://hub.docker.com)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - [Portainer](https://github.com/portainer/portainer) - Docker and Kubernetes management application
+- [LinuxServer.io](https://docs.linuxserver.io)
 
 ## Terminal
 
@@ -174,6 +175,7 @@ Collection of useful software
 - [Winstall](https://winstall.app/)
 - [DevToys](https://devtoys.app)
 - [PowerToys](https://learn.microsoft.com/de-de/windows/powertoys)
+- [It-Tools](https://it-tools.tech)
 
 ## Awesome-Lists
 
