@@ -10,20 +10,22 @@ Collection of useful software
 ## Database
 
 - [MySql](https://github.com/mysql/mysql-server)
-- [MariaDB](https://mariadb.org/)
+- [MariaDB](https://mariadb.org/) - Open-source-fork of mysql
 - [MSSQL](https://www.microsoft.com/sql-server/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Oracle](https://www.oracle.com/database/)
-- [SQLite](https://www.sqlite.org/)
+- [SQLite](https://www.sqlite.org/) - small database (very usefull for app development to save data on the end-device)
+- [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - serverless, nosql database
 
 ## Database Clients
 
 - [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - Graphical interface for managing MariaDB & MySql servers
 - [MySql Workbench](https://github.com/mysql/mysql-workbench) - Graphical tool for working with MySQL servers and databases
 
-## API
+## HTTP-Clients
 
 - [Postman](https://www.postman.com/)
+- [Bruno](https://www.usebruno.com/) - Open-source postman alternative
 - [Insomnia](https://github.com/Kong/insomnia) - Open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem
 
@@ -39,8 +41,12 @@ Collection of useful software
 
 - [Docker Hub](https://hub.docker.com)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
+- [Rancher Desktop](https://rancherdesktop.io/) - Open-source alternative app for docker-desktop
+- [Podman Desktop](https://podman-desktop.io/)
 - [Portainer](https://github.com/portainer/portainer) - Docker and Kubernetes management application
 - [LinuxServer.io](https://docs.linuxserver.io)
+- [Kubernetes](https://kubernetes.io/)
+- [Docker Swarm](https://docs.docker.com/engine/swarm/)
 
 ## Terminal
 
@@ -92,7 +98,6 @@ Collection of useful software
 - [Gitea](https://gitea.io)
 - [Bitbucket](https://bitbucket.org)
 - [Gogs](https://gogs.io)
-- [Azure DevOps](https://azure.microsoft.com/de-de/products/devops)
 
 ## Password
 
@@ -135,17 +140,19 @@ Collection of useful software
 - [Microsoft Azure](https://azure.microsoft.com/)
 - [Google Cloud](https://console.cloud.google.com/)
 - [Amazon Webservices (AWS)](https://aws.amazon.com/)
-- [Terraform](https://www.terraform.io/)
+- [Terraform](https://www.terraform.io/) - Software to configure and deploy cloud-infrastructure
+- [Ansible](https://github.com/ansible/ansible) - Software for Serverconfiguration
 
 ## CI/CD
 
 - [GitHub Actions](https://github.com/features/actions)
 - [GitLab Pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
+- [Azure DevOps](https://azure.microsoft.com/de-de/products/devops)
 - [Jenkins](https://www.jenkins.io/)
 
 ## Network Analysis
 
--[Nmap](https://nmap.org/)
+- [Nmap](https://nmap.org/)
 
 ## Visual Studio Code Plugins
 
@@ -226,6 +233,10 @@ Collection of useful software
 
 - [HuggingFace](https://huggingface.co/) - platform to download AI models
 
+## Logging
+
+- [Serilog](https://serilog.net/)
+
 ## NOT ASSIGNED
 
 - [UniGetUI](https://www.marticliment.com/unigetui/) - an intuitive GUI for the most common CLI package managers for Windows 10 and Windows 11, such as Winget, Scoop, Chocolatey, Pip, Npm, .NET Tool and PowerShell Gallery
@@ -241,3 +252,6 @@ Collection of useful software
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell)
+- [DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap)
+- [awesome-qsharp](https://github.com/ebraminio/awesome-qsharp)
+- [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
