@@ -47,6 +47,7 @@ Collection of useful software
 - [LinuxServer.io](https://docs.linuxserver.io)
 - [Kubernetes](https://kubernetes.io/)
 - [Docker Swarm](https://docs.docker.com/engine/swarm/)
+- [Dokploy](https://dokploy.com/) - Container Management on VPS
 
 ## Terminal
 
@@ -152,6 +153,7 @@ Collection of useful software
 
 ## Network Analysis
 
+- [Wireshark](https://www.wireshark.org/)
 - [Nmap](https://nmap.org/)
 
 ## Visual Studio Code Plugins
@@ -236,6 +238,10 @@ Collection of useful software
 ## Logging
 
 - [Serilog](https://serilog.net/)
+
+## FTP
+
+- [WinSCP](https://winscp.net/eng/docs/)
 
 ## NOT ASSIGNED
 
