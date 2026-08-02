@@ -155,6 +155,7 @@ Collection of useful software
 
 - [Wireshark](https://www.wireshark.org/)
 - [Nmap](https://nmap.org/)
+- [DNS Speed Test](https://dnsspeedtest.online/)
 
 ## Visual Studio Code Plugins
 
