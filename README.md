@@ -74,6 +74,10 @@ Collection of useful software
 - [ElementaryOS](https://elementary.io/de) - Ubuntu with IOS Desktop
 - [RedHat](https://www.redhat.com)
 
+## Linux Apps & Plugins
+
+- [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/) - For modern Menu's or for example Windows Menu's
+
 ## Framework
 
 - [Angular](https://angular.dev)
